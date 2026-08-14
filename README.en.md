@@ -14,7 +14,7 @@
   </p>
 </div>
 
-![AIClue search results overview showing filenames, paths, content snippets, and actions](assets/en-hero-search-overview.webp)
+![AIClue search results overview showing filenames, paths, content snippets, and actions](assets/en-hero-search-overview-v2.webp)
 
 AIClue is a local file finding and organizing tool for Windows. You do not need the full filename or a folder-by-folder search. Type the few words you remember to search filenames, folder locations, and common document content together, then use highlighted matches, content snippets, and previews to identify the file you need.
 

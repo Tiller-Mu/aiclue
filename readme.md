@@ -14,7 +14,7 @@
   </p>
 </div>
 
-![AIClue 搜索结果总览，包含文件名、路径、正文片段和操作入口](assets/zh-hero-search-overview.webp)
+![AIClue 搜索结果总览，包含文件名、路径、正文片段和操作入口](assets/zh-hero-search-overview-v2.webp)
 
 AIClue 是一款面向 Windows 的本地文件查找和整理工具。文件名记不全，也不用一个文件夹一个文件夹翻：输入你还记得的几个字，就能从文件名、文件夹位置和常见文档内容中一起查找，并通过命中高亮、内容片段和预览判断哪个才是目标文件。
 
