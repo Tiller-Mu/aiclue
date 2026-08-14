@@ -6,11 +6,11 @@
     <a href="readme.md">简体中文</a>
   </p>
   <p>
-    <a href="https://aiclue.boxai365.com/en/download/"><strong>Download AIClue</strong></a>
+    <a href="https://aiclue.boxai365.com/en/download/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository"><strong>Download AIClue</strong></a>
     ·
-    <a href="https://aiclue.boxai365.com/en/">Official website</a>
+    <a href="https://aiclue.boxai365.com/en/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">Official website</a>
     ·
-    <a href="https://aiclue.boxai365.com/en/docs/">User manual</a>
+    <a href="https://aiclue.boxai365.com/en/docs/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">User manual</a>
   </p>
 </div>
 
@@ -40,11 +40,11 @@ Currently published features are free to use, and basic features work without re
 - Account login, entitlement synchronization, and software updates require network access.
 - Redacted and scope-limited diagnostic material is uploaded only when you actively submit feedback and select the diagnostic-data option.
 
-Read the full [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/).
+Read the full [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository).
 
 ## Download and install
 
-Get the current Windows installer from the [official AIClue download page](https://aiclue.boxai365.com/en/download/). You can also download the installer whose name ends in `-setup.exe` from this repository's [Releases](https://github.com/Tiller-Mu/aiclue/releases/latest) page.
+Get the current Windows installer from the [official AIClue download page](https://aiclue.boxai365.com/en/download/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository). You can also download the installer whose name ends in `-setup.exe` from this repository's [Releases](https://github.com/Tiller-Mu/aiclue/releases/latest) page.
 
 > The `Source code (zip)` and `Source code (tar.gz)` archives automatically shown by GitHub are not AIClue installers and do not contain the application source code.
 
@@ -60,11 +60,11 @@ When you add many files for the first time, AIClue needs time to read file infor
 
 ## Learn more
 
-- [Official website](https://aiclue.boxai365.com/en/)
-- [Download AIClue](https://aiclue.boxai365.com/en/download/)
-- [User manual](https://aiclue.boxai365.com/en/docs/)
-- [Changelog](https://aiclue.boxai365.com/en/changelog/)
-- [Privacy Policy](https://aiclue.boxai365.com/en/privacy/)
+- [Official website](https://aiclue.boxai365.com/en/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [Download AIClue](https://aiclue.boxai365.com/en/download/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [User manual](https://aiclue.boxai365.com/en/docs/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [Changelog](https://aiclue.boxai365.com/en/changelog/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
 
 ## About this repository
 

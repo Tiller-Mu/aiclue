@@ -6,11 +6,11 @@
     <a href="README.en.md">English</a>
   </p>
   <p>
-    <a href="https://aiclue.boxai365.com/zh/download/"><strong>下载 AIClue</strong></a>
+    <a href="https://aiclue.boxai365.com/zh/download/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository"><strong>下载 AIClue</strong></a>
     ·
-    <a href="https://aiclue.boxai365.com/zh/">官方网站</a>
+    <a href="https://aiclue.boxai365.com/zh/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">官方网站</a>
     ·
-    <a href="https://aiclue.boxai365.com/zh/docs/">用户说明书</a>
+    <a href="https://aiclue.boxai365.com/zh/docs/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">用户说明书</a>
   </p>
 </div>
 
@@ -40,11 +40,11 @@ AIClue 是一款面向 Windows 的本地文件查找和整理工具。文件名�
 - 账号登录、权益同步、软件更新等功能需要联网。
 - 仅在你主动提交反馈并勾选“同步上传分析数据”时，才会上传经过脱敏和范围限制的诊断材料。
 
-完整说明请阅读 [AIClue 隐私政策](https://aiclue.boxai365.com/zh/privacy/)。
+完整说明请阅读 [AIClue 隐私政策](https://aiclue.boxai365.com/zh/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)。
 
 ## 下载与安装
 
-请从 [AIClue 官方下载页面](https://aiclue.boxai365.com/zh/download/) 获取当前 Windows 安装程序。也可以在本仓库的 [Releases](https://github.com/Tiller-Mu/aiclue/releases/latest) 页面下载名称以 `-setup.exe` 结尾的安装包。
+请从 [AIClue 官方下载页面](https://aiclue.boxai365.com/zh/download/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) 获取当前 Windows 安装程序。也可以在本仓库的 [Releases](https://github.com/Tiller-Mu/aiclue/releases/latest) 页面下载名称以 `-setup.exe` 结尾的安装包。
 
 > GitHub 自动显示的 `Source code (zip)` 和 `Source code (tar.gz)` 不是 AIClue 安装程序，也不包含应用源代码。
 
@@ -60,11 +60,11 @@ AIClue 是一款面向 Windows 的本地文件查找和整理工具。文件名�
 
 ## 了解更多
 
-- [官方网站](https://aiclue.boxai365.com/zh/)
-- [下载 AIClue](https://aiclue.boxai365.com/zh/download/)
-- [用户说明书](https://aiclue.boxai365.com/zh/docs/)
-- [更新记录](https://aiclue.boxai365.com/zh/changelog/)
-- [隐私政策](https://aiclue.boxai365.com/zh/privacy/)
+- [官方网站](https://aiclue.boxai365.com/zh/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [下载 AIClue](https://aiclue.boxai365.com/zh/download/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [用户说明书](https://aiclue.boxai365.com/zh/docs/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [更新记录](https://aiclue.boxai365.com/zh/changelog/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [隐私政策](https://aiclue.boxai365.com/zh/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
 
 ## 关于本仓库
 
