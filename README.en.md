@@ -14,33 +14,45 @@
   </p>
 </div>
 
-![AIClue search results overview showing filenames, paths, content snippets, and actions](assets/en-hero-search-overview-v2.webp)
+![AIClue v26.8.12 search results for 履约保证金, showing three candidate files, locations, and text snippets in the Chinese interface](assets/zh-search-results-v26.8.12.png)
 
-AIClue is a local file finding and organizing tool for Windows. You do not need the full filename or a folder-by-folder search. Type the few words you remember to search filenames, folder locations, and common document content together, then use highlighted matches, content snippets, and previews to identify the file you need.
+*Recorded in v26.8.12 with the Chinese interface: a remembered phrase returned three candidates among five demonstration files. A match is a starting point, not yet a confirmed file.*
 
-Currently published features are free to use, and basic features work without registration. File scanning, search, and organization are completed on your computer by default.
+AIClue is a local file search and organizing tool for Windows. Type the few words you remember to search **filenames, file locations, and document text** together. Then verify a candidate, follow it to related material, and bring useful files together.
 
-## Why AIClue
+AIClue can attempt to read text from common Word, PDF, Excel, PowerPoint, TXT, and Markdown files. See the [supported formats guide](https://aiclue.boxai365.com/en/docs/appendix-supported-formats-data.html?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for conditions and limits.
 
-| Capability | What it helps you do |
-| --- | --- |
-| **Search filenames and content** | Search filenames, folder locations, and common document content with a few remembered words, with highlighted matches and content snippets. |
-| **Filter and preview** | Narrow results by file type, time, and directory; preview common documents, spreadsheets, presentations, images, audio/video, Markdown, code, and plain text before opening. |
-| **Follow related material** | Continue from one close result to files in the same folder or files with similar content. |
-| **Project workspaces** | Collect files from different directories in one workspace without copying or moving the originals. |
-| **Incoming-file organization** | Review locations that accumulate files, such as Desktop, Downloads, or chat folders, then confirm moves or archiving. |
-| **Duplicate detection** | Find files with identical content, review them in groups, and move selected extra copies to the system recycle bin. |
+## From one clue to a set of files
+
+1. **Find it:** Search from a remembered name, location, or phrase in a document.
+2. **Make sure:** Check the full path, matching snippet, and preview before choosing a file.
+3. **Follow the clues:** Continue from that file to similar content or other files in its folder, without guessing another query.
+4. **Bring it together:** Add useful files to a workspace across folders while the originals stay where they are.
+
+In the [recorded v26.8.12 walkthrough](https://aiclue.boxai365.com/en/find-file-without-name/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository), the remembered phrase 履约保证金 (“performance bond”) leads to candidate files. A project-location clue narrows the search, and the preview confirms the meeting notes.
+
+## Find one file. Follow it to more.
+
+The first file you find may not be the final one, but it can lead you to the rest of the material. AIClue offers two distinct ways to continue from the current file:
+
+- **Similar content:** Explore files with content close to the current file, including material in other folders.
+- **Same folder:** See other files stored alongside the current file.
+
+![AIClue v26.8.12 meeting notes preview with Similar content results and the Same folder tab in the Chinese interface](assets/zh-related-files-v26.8.12.png)
+
+*Recorded in v26.8.12 with the Chinese interface: while previewing meeting notes from Project A, Similar content also shows additional notes from Project B.*
+
+## Bring files together. Keep originals where they are.
+
+Add a useful file to a workspace as you find it. Files from different folders can be viewed and opened together; the workspace keeps references instead of copying or moving the originals. You can also review newly received files by date and check duplicates in groups, then organize them when needed.
 
 ## Local-first, with you in control
 
-- Only folders you explicitly add are scanned.
-- Everyday file scanning, content reading, search, filtering, and preview are mainly completed on your device.
-- Original files are not uploaded by default, and local search or preview does not automatically upload file content.
-- Source files are not automatically moved, renamed, or deleted in the background; organization and cleanup actions require confirmation.
+- AIClue processes the folders you explicitly add; everyday file search and preview mainly run on your device.
+- Moving, deleting, and cleaning up duplicate files require your confirmation.
 - Account login, entitlement synchronization, and software updates require network access.
-- Redacted and scope-limited diagnostic material is uploaded only when you actively submit feedback and select the diagnostic-data option.
 
-Read the full [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository).
+Read the [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for the full boundaries. Currently published features are free forever, and basic features do not require registration.
 
 ## Download and install
 
