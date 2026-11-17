@@ -53,7 +53,7 @@ Add a useful file to a workspace as you find it. Files from different folders ca
 - AIClue processes the folders you explicitly add; everyday file search and preview mainly run on your device.
 - When away from your desk, Pro users can enable Phone link to search, read, and download files from selected PC folders in a phone browser over an encrypted connection—search still runs locally on your PC without uploading files to cloud storage.
 - Moving, deleting, and cleaning up duplicate files require your confirmation.
-- Account login, entitlement synchronization, plan purchases, Phone link connections, and software updates connect only when needed.
+- Account login, entitlement synchronization, plan purchases, Phone link connections, and manual updates require network access; automatic update checks (when enabled) and automatic daily desktop activity reporting also use the network.
 
 Read the [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for the full boundaries. Try AIClue without an account, or register and sign in to use free features (including basic image OCR); Pro adds text recognition for scanned PDFs and document images, plus encrypted phone access to search and download your PC files. See [Features and pricing](https://aiclue.boxai365.com/en/plans/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for details.
 
@@ -69,7 +69,7 @@ Get the current Windows installer from the [official AIClue download page](https
 | --- | --- | --- |
 | Windows | Windows 10 64-bit, 4GB RAM | Windows 10/11 64-bit, 8GB+ RAM |
 | Disk | 500MB free space for the app and search data | 1GB+ free space |
-| Network | Required for downloads, automatic updates, account login, entitlement synchronization, plan purchases, and Phone link connections | Everyday scanning, search, local OCR, and preview can be used offline |
+| Network | Required for downloads, automatic updates, account login, entitlement synchronization, plan purchases, Phone link connections, and daily activity reporting | Everyday scanning, search, local OCR, and preview can be used offline |
 
 When you add many files for the first time, AIClue needs time to read file information and prepare local search data. Everyday search and browsing become smoother after this initial preparation finishes.
 
