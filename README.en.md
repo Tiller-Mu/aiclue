@@ -10,17 +10,19 @@
     ·
     <a href="https://aiclue.boxai365.com/en/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">Official website</a>
     ·
+    <a href="https://aiclue.boxai365.com/en/plans/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">Features and pricing</a>
+    ·
     <a href="https://aiclue.boxai365.com/en/docs/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=aiclue_repository">User manual</a>
   </p>
 </div>
 
-![AIClue v26.8.12 search results for 履约保证金, showing three candidate files, locations, and text snippets in the Chinese interface](assets/zh-search-results-v26.8.12.png)
+![AIClue search results for 履约保证金, showing three candidate files, locations, and text snippets in the Chinese interface](assets/zh-search-results-v26.8.12.png)
 
-*Recorded in v26.8.12 with the Chinese interface: a remembered phrase returned three candidates among five demonstration files. A match is a starting point, not yet a confirmed file.*
+*Recorded with the Chinese interface: a remembered phrase returned three candidates among five demonstration files. A match is a starting point, not yet a confirmed file.*
 
 AIClue is a local file search and organizing tool for Windows. Type the few words you remember to search **filenames, file locations, and document text** together. Then verify a candidate, follow it to related material, and bring useful files together.
 
-AIClue can attempt to read text from common Word, PDF, Excel, PowerPoint, TXT, and Markdown files. See the [supported formats guide](https://aiclue.boxai365.com/en/docs/appendix-supported-formats-data.html?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for conditions and limits.
+AIClue searches text inside common Word, PDF, Excel, PowerPoint, TXT, and Markdown files. Registered accounts can also enable offline image text recognition (OCR) for free to search words inside images and scanned files, while Pro adds text recognition for scanned PDFs and images inside Word or PowerPoint files (models ship with the app and run offline without uploading your files). See the [supported formats guide](https://aiclue.boxai365.com/en/docs/appendix-supported-formats-data.html?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for conditions and limits.
 
 ## From one clue to a set of files
 
@@ -29,7 +31,7 @@ AIClue can attempt to read text from common Word, PDF, Excel, PowerPoint, TXT, a
 3. **Follow the clues:** Continue from that file to similar content or other files in its folder, without guessing another query.
 4. **Bring it together:** Add useful files to a workspace across folders while the originals stay where they are.
 
-In the [recorded v26.8.12 walkthrough](https://aiclue.boxai365.com/en/find-file-without-name/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository), the remembered phrase 履约保证金 (“performance bond”) leads to candidate files. A project-location clue narrows the search, and the preview confirms the meeting notes.
+In the [recorded walkthrough](https://aiclue.boxai365.com/en/find-file-without-name/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository), the remembered phrase 履约保证金 (“performance bond”) leads to candidate files. A project-location clue narrows the search, and the preview confirms the meeting notes.
 
 ## Find one file. Follow it to more.
 
@@ -38,9 +40,9 @@ The first file you find may not be the final one, but it can lead you to the res
 - **Similar content:** Explore files with content close to the current file, including material in other folders.
 - **Same folder:** See other files stored alongside the current file.
 
-![AIClue v26.8.12 meeting notes preview with Similar content results and the Same folder tab in the Chinese interface](assets/zh-related-files-v26.8.12.png)
+![AIClue meeting notes preview with Similar content results and the Same folder tab in the Chinese interface](assets/zh-related-files-v26.8.12.png)
 
-*Recorded in v26.8.12 with the Chinese interface: while previewing meeting notes from Project A, Similar content also shows additional notes from Project B.*
+*Recorded with the Chinese interface: while previewing meeting notes from Project A, Similar content also shows additional notes from Project B.*
 
 ## Bring files together. Keep originals where they are.
 
@@ -49,10 +51,11 @@ Add a useful file to a workspace as you find it. Files from different folders ca
 ## Local-first, with you in control
 
 - AIClue processes the folders you explicitly add; everyday file search and preview mainly run on your device.
+- When away from your desk, Pro users can enable Phone link to search, read, and download files from selected PC folders in a phone browser over an encrypted connection—search still runs locally on your PC without uploading files to cloud storage.
 - Moving, deleting, and cleaning up duplicate files require your confirmation.
-- Account login, entitlement synchronization, and software updates require network access.
+- Account login, entitlement synchronization, plan purchases, Phone link connections, and software updates connect only when needed.
 
-Read the [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for the full boundaries. Currently published features are free forever, and basic features do not require registration.
+Read the [AIClue Privacy Policy](https://aiclue.boxai365.com/en/privacy/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for the full boundaries. Try AIClue without an account, or register and sign in to use free features (including basic image OCR); Pro adds text recognition for scanned PDFs and document images, plus encrypted phone access to search and download your PC files. See [Features and pricing](https://aiclue.boxai365.com/en/plans/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository) for details.
 
 ## Download and install
 
@@ -66,13 +69,14 @@ Get the current Windows installer from the [official AIClue download page](https
 | --- | --- | --- |
 | Windows | Windows 10 64-bit, 4GB RAM | Windows 10/11 64-bit, 8GB+ RAM |
 | Disk | 500MB free space for the app and search data | 1GB+ free space |
-| Network | Required for downloads, automatic updates, account login, and entitlement synchronization | Everyday scanning, search, and preview can be used offline |
+| Network | Required for downloads, automatic updates, account login, entitlement synchronization, plan purchases, and Phone link connections | Everyday scanning, search, local OCR, and preview can be used offline |
 
 When you add many files for the first time, AIClue needs time to read file information and prepare local search data. Everyday search and browsing become smoother after this initial preparation finishes.
 
 ## Learn more
 
 - [Official website](https://aiclue.boxai365.com/en/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
+- [Features and pricing](https://aiclue.boxai365.com/en/plans/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
 - [Download AIClue](https://aiclue.boxai365.com/en/download/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
 - [User manual](https://aiclue.boxai365.com/en/docs/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
 - [Changelog](https://aiclue.boxai365.com/en/changelog/?utm_source=github&utm_medium=referral&utm_campaign=aiclue_repository)
